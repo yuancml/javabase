@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20170919 17:05:55.536" generator="Robot 3.0.2 (Python 2.7.10 on darwin)">
+<suite source="/Users/chenmingliangdeapple/Documents/RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975/弹个车订单/二手车弹个车订单" id="s1" name="二手车弹个车订单">
+<suite source="/Users/chenmingliangdeapple/Documents/RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975/弹个车订单/二手车弹个车订单/创建二手车弹个车700状态订单.robot" id="s1-s1" name="创建二手车弹个车700状态订单">
+<test id="s1-s1-t1" name="创建90订单">
+<kw name="登录风车" library="common">
+<arguments>
+<arg>15094448010</arg>
+<arg>cml448010</arg>
+</arguments>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"######登录大风车######"</arg>
+</arguments>
+<msg timestamp="20170919 17:05:56.050" level="INFO">"######登录大风车######"</msg>
+<status status="PASS" endtime="20170919 17:05:56.050" starttime="20170919 17:05:56.050"></status>
+</kw>
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>Content-Type=application/x-www-form-urlencoded</arg>
+</arguments>
+<assign>
+<var>${headers}</var>
+</assign>
+<msg timestamp="20170919 17:05:56.051" level="INFO">${headers} = {u'Content-Type': u'application/x-www-form-urlencoded'}</msg>
+<status status="PASS" endtime="20170919 17:05:56.051" starttime="20170919 17:05:56.050"></status>
+</kw>
+<kw name="Create Session" library="RequestsLibrary">
+<doc>Create Session: create a HTTP session to a server</doc>
+<arguments>
+<arg>_session</arg>
+<arg>http://dfc.sqaproxy.souche.com</arg>
+<arg>${headers}</arg>
+</arguments>
+<assign>
+<var>${host}</var>
+</assign>
+<msg timestamp="20170919 17:05:56.052" level="INFO">Creating Session using : alias=_session, url=http://dfc.sqaproxy.souche.com, headers={u'Content-Type': u'application/x-www-form-urlencoded'},                     cookies=None, auth=None, timeout=None, proxies=None, verify=False,                     debug=0 </msg>
+<msg timestamp="20170919 17:05:56.053" level="INFO">${host} = &lt;requests.sessions.Session object at 0x110b7fb10&gt;</msg>
+<status status="PASS" endtime="20170919 17:05:56.053" starttime="20170919 17:05:56.052"></status>
+</kw>
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>loginName=${loginName}</arg>
+<arg>password=${password}</arg>
+</arguments>
+<assign>
+<var>${data}</var>
+</assign>
+<msg timestamp="20170919 17:05:56.054" level="INFO">${data} = {u'loginName': u'15094448010', u'password': u'cml448010'}</msg>
+<status status="PASS" endtime="20170919 17:05:56.054" starttime="20170919 17:05:56.053"></status>
+</kw>
+<kw name="Post Request" library="RequestsLibrary">
+<doc>Send a POST request on the session object found using the</doc>
+<arguments>
+<arg>_session</arg>
+<arg>/rest/account/login</arg>
+<arg>data=${data}</arg>
+</arguments>
+<assign>
+<var>${response}</var>
+</assign>
+<msg timestamp="20170919 17:05:57.961" level="INFO">Post Request using : alias=_session, uri=/rest/account/login, data=&lt;empty&gt;, headers=None, files=None, allow_redirects=True </msg>
+<msg timestamp="20170919 17:05:57.961" level="INFO">${response} = &lt;Response [200]&gt;</msg>
+<status status="PASS" endtime="20170919 17:05:57.962" starttime="20170919 17:05:56.054"></status>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>${response.json()}</arg>
+</arguments>
+<assign>
+<var>${json}</var>
+</assign>
+<msg timestamp="20170919 17:05:57.963" level="INFO">${json} = {u'msg': u'success', u'code': 1, u'data': {u'cityCode': u'01841', u'loginName': u'15094448010', u'roles': [u'super_admin', u'J5O6OMOch1', u'ea4KU78NMO', u'cheniu_boss', u'18aA95xz5Z', u'Sales_Executiv...</msg>
+<status status="PASS" endtime="20170919 17:05:57.963" starttime="20170919 17:05:57.962"></status>
+</kw>
+<kw name="Should Be True" library="BuiltIn">
+<doc>Fails if the given condition is not true.</doc>
+<arguments>
+<arg>${json["success"]}</arg>
+</arguments>
+<status status="PASS" endtime="20170919 17:05:57.964" starttime="20170919 17:05:57.963"></status>
+</kw>
+<kw name="Set Global Variable" library="BuiltIn">
+<doc>Makes a variable available globally in all tests and suites.</doc>
+<arguments>
+<arg>${token}</arg>
+<arg>${json["data"]["token"]}</arg>
+</arguments>
+<msg timestamp="20170919 17:05:57.966" level="INFO">${token} = 13Rji_uZcZjlG9NQ</msg>
+<status status="PASS" endtime="20170919 17:05:57.966" starttime="20170919 17:05:57.965"></status>
+</kw>
+<status status="PASS" endtime="20170919 17:05:57.967" starttime="20170919 17:05:56.049"></status>
+</kw>
+<kw name="get_from_file" library="MyLibrary">
+<arguments>
+<arg>弹个车订单/二手车弹个车订单/save.txt</arg>
+</arguments>
+<assign>
+<var>${save}</var>
+</assign>
+<msg timestamp="20170919 17:05:57.967" level="INFO">=====/Users/chenmingliangdeapple/Documents/RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975/弹个车订单/二手车弹个车订单</msg>
+<msg timestamp="20170919 17:05:57.970" level="FAIL">IOError: [Errno 2] No such file or directory: u'\u5f39\u4e2a\u8f66\u8ba2\u5355/\u4e8c\u624b\u8f66\u5f39\u4e2a\u8f66\u8ba2\u5355/save.txt'</msg>
+<status status="FAIL" endtime="20170919 17:05:57.970" starttime="20170919 17:05:57.967"></status>
+</kw>
+<status status="FAIL" endtime="20170919 17:05:57.970" critical="yes" starttime="20170919 17:05:56.047">IOError: [Errno 2] No such file or directory: u'\u5f39\u4e2a\u8f66\u8ba2\u5355/\u4e8c\u624b\u8f66\u5f39\u4e2a\u8f66\u8ba2\u5355/save.txt'</status>
+</test>
+<status status="FAIL" endtime="20170919 17:05:57.971" starttime="20170919 17:05:55.578"></status>
+</suite>
+<status status="FAIL" endtime="20170919 17:05:57.977" starttime="20170919 17:05:55.539"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="1" pass="0">Critical Tests</stat>
+<stat fail="1" pass="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="1" id="s1" name="二手车弹个车订单" pass="0">二手车弹个车订单</stat>
+<stat fail="1" id="s1-s1" name="创建二手车弹个车700状态订单" pass="0">二手车弹个车订单.创建二手车弹个车700状态订单</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20170919 17:05:55.579" level="ERROR">Error in file '/Users/chenmingliangdeapple/Documents/RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975/弹个车订单/二手车弹个车订单/创建二手车弹个车700状态订单.robot': Setting variable '${}' failed: Invalid variable name '${}'.</msg>
+</errors>
+</robot>

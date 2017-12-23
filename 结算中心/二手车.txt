@@ -1,0 +1,56 @@
+*** Settings ***
+Resource          user_key.robot
+Resource          ../弹个车订单/common.robot
+Variables         ../弹个车订单/sql_scripts.py
+Library           BuiltIn
+Library           RequestsLibrary
+Library           Collections
+Resource          ../弹个车订单/common.robot
+
+*** Variables ***
+&{host}           debug1=http://clearing-center.dasouche-inc.net    debug2=http://clearing-center.dasouche.net    prepub=http://clearing-center.prepub.souche-inc.com    online=http://clearing-center.souche-inc.com
+${orderCode}      528058021924    #529215280094自己的测试订单；
+&{key}            old=xPk9wNrTGOjXzn02loE9Dfncd0f    new1=3.1415926#settlement
+${xiaoshou_code}      002166  #校验销售店铺是否正确
+${good_shop}      002166    #校验供车方店铺是否正确
+
+
+*** Test Cases ***
+1.二手车采购款结算10万
+    [Documentation]    拉取采购款结算单时，如果车辆已提车（status_code=700）,则同时生成【二手车返佣】结算单。
+    [Setup]    # 删除已有的采购款和返佣打款信息
+    set test variable    ${order_code}    ${orderCode}
+    DB.Script    clearing_center    ${delete_settle}
+    拉取订单    ${key['old']}    ${orderCode}
+
+校验生成数据是否在正确
+    set test variable  ${order_code}      ${orderCode}
+    ${rowset}    DB.QueryOne    clearing_center    ${select_settle_record}
+    log    ${rowset["order_code"]}
+    ${order_code}     set variable        ${rowset["order_code"]}
+    ${shop_code}    set variable    ${rowset["shop_code"]}
+    ${goods_shop_code}  set variable  ${rowset["goods_shop_code"]}
+    ${settled}      set variable     ${rowset["settled"]}
+    ${car_type}     set variable     ${rowset["car_type"]}
+    ${pay_status}   set variable     ${rowset["pay_status"]}
+    log    ${rowset['id']}
+    Run Keyword And Ignore Error    should be equal as numbers    ${order_code}     ${orderCode}
+    log     ${orderCode}
+    Run Keyword And Ignore Error    should be equal as numbers    ${shop_code}      ${xiaoshou_code}
+    Run Keyword And Ignore Error    should be equal as numbers    ${goods_shop_code}    ${good_shop}
+    Run Keyword And Ignore Error    should be equal as Integers   ${rowset["settled"]}     0   #是否结清,0未结清，1已结清
+    Run Keyword And Ignore Error    should be equal as numbers    ${car_type}    0   #车辆状态(0待确认 1已确认 2已过户)
+    Run Keyword And Ignore Error    should be equal as numbers    ${rowset["pay_status"]}    0  #扣款状态(0未扣款 1已扣款 2支付中 3支付失败)
+    Run Keyword And Ignore Error    should be equal as numbers    ${rowset["car_type"]}      0   #车辆类型（0二手车 1新车）
+2.发起二手车采购款扣款
+    拉取订单    ${key['old']}    ${orderCode}
+
+3.采购款打款节点-第一笔
+
+4.二手车采购款打款-第一笔
+
+5.二手车采购款打款-第二笔
+
+6.二手车采购款打款-第三笔
+
+7.二手车采购款第四笔

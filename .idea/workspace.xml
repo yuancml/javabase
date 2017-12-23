@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb9d2aa8-7e51-4dbe-9c2a-f553e0a46841" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RF_InterfaceTest_tangeche_order_InterfaceTest_e0ed41e6ae216d84b79c0070dbb296db0e3f3975$README_md.coverage" NAME="README.md Coverage Results" MODIFIED="1512314462777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RF_InterfaceTest" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.562212">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="创建二手车弹个车700状态订单.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/二手车弹个车订单/创建二手车弹个车700状态订单.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="42" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#183#0" expanded="true" />
+                    <marker date="1513931015388" expanded="true" signature="0:147" ph="*** Setting ***" />
+                    <marker date="1513931015388" expanded="true" signature="1708:1745" ph="创建二手车金融产品" />
+                    <marker date="1513931015388" expanded="true" signature="30931:31044" ph="取消订单（非700订单）" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sql_scripts.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/sql_scripts.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+                  <folding>
+                    <marker date="1513929942248" expanded="true" signature="101:324" ph="INSERT INTO `TB_ORDER`... " />
+                    <marker date="1513929942248" expanded="true" signature="333:558" ph="INSERT INTO `TB_ORDER`... " />
+                    <marker date="1513929942248" expanded="true" signature="599:772" ph="INSERT INTO `TB_ORDER_SUMMARY`... " />
+                    <marker date="1513929942248" expanded="true" signature="791:834" ph="SELECT * FRO... TB_ORDER" />
+                    <marker date="1513929942248" expanded="true" signature="849:894" ph="SELECT * FRO... TB_ORDER" />
+                    <marker date="1513929942248" expanded="true" signature="910:963" ph="SELECT * FRO... fcl_order" />
+                    <marker date="1513929942248" expanded="true" signature="980:1120" ph="Select * fro... fcl_order" />
+                    <marker date="1513929942248" expanded="true" signature="1043:1119" ph="SELECT order... fcl_order_user" />
+                    <marker date="1513929942248" expanded="true" signature="1134:1191" ph="SELECT * FRO... fcl_order_car" />
+                    <marker date="1513929942248" expanded="true" signature="1213:1274" ph="SELECT * FRO... fcm_car_deal" />
+                    <marker date="1513929942248" expanded="true" signature="1298:1365" ph="update fcl_o... " />
+                    <marker date="1513929942248" expanded="true" signature="1832:1885" ph="DELETE FROM " />
+                    <marker date="1513929942248" expanded="true" signature="1893:1954" ph="DELETE FROM " />
+                    <marker date="1513929942248" expanded="true" signature="1982:2044" ph="delete from " />
+                    <marker date="1513929942248" expanded="true" signature="1982:2121" ph="delete from " />
+                    <marker date="1513929942248" expanded="true" signature="1988:2043" ph="select * fro... settlement_record" />
+                    <marker date="1513929942248" expanded="true" signature="1988:2044" ph="select * fro... settlement_record" />
+                    <marker date="1513929942248" expanded="true" signature="2052:2121" ph="delete from " />
+                    <marker date="1513929942248" expanded="true" signature="2058:2106" ph="DELETE FROM " />
+                    <marker date="1513929942248" expanded="true" signature="2058:2121" ph="DELETE FROM " />
+                    <marker date="1513929942248" expanded="true" signature="2148:2212" ph="select order... settlement_record" />
+                    <marker date="1513929942248" expanded="true" signature="2148:2213" ph="select order... settlement_record" />
+                    <marker date="1513929942248" expanded="true" signature="2245:2316" ph="select * fro... settlement_record_detail" />
+                    <marker date="1513929942248" expanded="true" signature="2338:2508" ph="SELECT * FRO... sec_financial_product_shop_relate" />
+                    <marker date="1513929942248" expanded="true" signature="2338:2554" ph="SELECT * FRO... sec_financial_product_shop_relate" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="新车弹个车订单-集采非网商.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采非网商.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2715">
+                  <caret line="181" column="36" lean-forward="false" selection-start-line="181" selection-start-column="36" selection-end-line="181" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#0#147#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="user_key.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/结算中心/user_key.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="二手车.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/结算中心/二手车.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                  <folding>
+                    <marker date="1513929298017" expanded="false" signature="0:89" ph="*** Settings ***" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="新车弹个车订单-非集采网商.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-非集采网商.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="__init__.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/__init__.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/test.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="765">
+                  <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BuiltIn.py" pinned="false" current-in-tab="false">
+            <entry file="file:///Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="25035">
+                  <caret line="1693" column="65" lean-forward="false" selection-start-line="1693" selection-start-column="29" selection-end-line="1693" selection-end-column="65" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="新车弹个车订单-集采网商.robot" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采网商.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="8055">
+                  <caret line="537" column="32" lean-forward="false" selection-start-line="537" selection-start-column="32" selection-end-line="537" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#0#183#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MyLibrary.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/MyLibrary.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1500">
+                  <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="common.robot" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/弹个车订单/common.robot">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="656">
+                  <caret line="311" column="18" lean-forward="false" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#0#145#0" expanded="true" />
+                    <marker date="1513910730546" expanded="true" signature="147:715" ph="*** Variables ***" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connection_manager.py" pinned="false" current-in-tab="false">
+            <entry file="file:///Library/Python/2.7/site-packages/DatabaseLibrary/connection_manager.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1515">
+                  <caret line="101" column="8" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="query.py" pinned="false" current-in-tab="false">
+            <entry file="file:///Library/Python/2.7/site-packages/DatabaseLibrary/query.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+                  <folding>
+                    <marker date="1493001202000" expanded="true" signature="5232:5244" ph="DELETE FROM " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+            <entry file="file:///Library/Python/2.7/site-packages/robot/api/logger.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1020">
+                  <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#2403#2417#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Tup</find>
+      <find>l</find>
+      <find>live</find>
+      <find>livet</find>
+      <find>livete</find>
+      <find>livetes</find>
+      <find>livetest</find>
+      <find>livetest.</find>
+      <find>livetest.p</find>
+      <find>livetest.py</find>
+      <find>signAgreement</find>
+      <find>ratio</find>
+      <find>carFundsPayRecordId</find>
+      <find>getPurTaxPayApplyListForPayAndApply</find>
+      <find>list</find>
+      <find>plateNo</find>
+      <find>vin</find>
+      <find>order_code</find>
+      <find>@{scripts}</find>
+      <find>finance_car_lease_v3</find>
+      <find>interiorColor</find>
+      <find>db</find>
+      <find>Thing2Str</find>
+      <find>ThingStr</find>
+      <find>ThinStr</find>
+      <find>ThiStr</find>
+      <find>ThStr</find>
+      <find>Str</find>
+      <find>Script</find>
+      <find>description</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/弹个车订单/订单相关</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$USER_HOME$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/弹个车订单/common.robot" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/营销线业务/site/门店信息管理site-scrappy.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/小红点red-point.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/网站底部的版权、备案等声明信息site-bottom-announcement.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/venus/车巴巴" />
+        <option value="$PROJECT_DIR$/营销线业务/site/主题site-theme.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/车牛店招cheniushopsignsapi.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/advertising/车辆估价didicarassess.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/多图之车辆列表分享duotu-car-share.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/selfmedia/文章分发artical-push.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/selfmedia/文章管理article-manage.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/selfmedia/账户管理account-manage.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/selfmedia/问题反馈feedback.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/Venus/车巴巴.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/phone.py" />
+        <option value="$PROJECT_DIR$/营销线业务/weidian-sif/test.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/weidian-sif/全民卖车.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/weidian-sif/美图商城.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/专题推车.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/车辆查询接口.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/weidian-sif/营销工具.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/我的分享myshare.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/selfmedia/平台绑定binding-manage.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/qiwa/微店.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/专题推车subjectpushcarapi.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/thor/优惠券.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/site/车辆查询接口car-search-api.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/weidian-sif/爆款文章.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/test.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/common.robot" />
+        <option value="$PROJECT_DIR$/营销线业务/MyLibrary.py" />
+        <option value="$PROJECT_DIR$/弹个车订单/网金社.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/创建新车弹个车订单.robot.py" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/二手车弹个车订单/save.txt" />
+        <option value="$PROJECT_DIR$/弹个车订单/test.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-非集采.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-非集采网商订单.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/MyLibrary.py" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采网商订单.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-非网商.robot" />
+        <option value="$PROJECT_DIR$/代销管理/新零售-渠道管理/批量设置代销.txt" />
+        <option value="$PROJECT_DIR$/结算中心/拉取订单.py" />
+        <option value="$PROJECT_DIR$/结算中心/新车.txt" />
+        <option value="$PROJECT_DIR$/弹个车订单/订单相关/生成下单二维码.robot" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/结算中心/user_key.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采网商.robot" />
+        <option value="$PROJECT_DIR$/弹个车订单/common.robot" />
+        <option value="$PROJECT_DIR$/结算中心/二手车.txt" />
+        <option value="$PROJECT_DIR$/弹个车订单/sql_scripts.py" />
+        <option value="$PROJECT_DIR$/弹个车订单/二手车弹个车订单/创建二手车弹个车700状态订单.robot" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyArgumentEqualDefaultInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-skeletons" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyUserSkeletonsNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="结算中心" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="弹个车订单" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="弹个车订单" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="新车弹个车订单" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RF_InterfaceTest-tangeche_order_InterfaceTest-e0ed41e6ae216d84b79c0070dbb296db0e3f3975" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="弹个车订单" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="二手车弹个车订单" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/dasouche/Documents/RF_InterfaceTest/营销线业务/MyLibrary.py" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="RF_InterfaceTest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="RF_InterfaceTest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/弹个车订单" />
+      <recent name="$PROJECT_DIR$/弹个车订单/二手车弹个车订单" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/营销线业务" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.query">
+    <configuration default="false" name="MyLibrary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/营销线业务" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/营销线业务/MyLibrary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyLibrary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/弹个车订单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/弹个车订单/MyLibrary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="README.md" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/README.md" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="query" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="/Library/Python/2.7/site-packages/DatabaseLibrary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Library/Python/2.7/site-packages/DatabaseLibrary/query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="RF_InterfaceTest" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RF_InterfaceTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.MyLibrary" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MyLibrary (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.README.md" />
+      <item index="3" class="java.lang.String" itemvalue="Python.query" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.query" />
+        <item index="1" class="java.lang.String" itemvalue="Python.README.md" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MyLibrary (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MyLibrary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9d2aa8-7e51-4dbe-9c2a-f553e0a46841" name="Default" comment="" />
+      <created>1493888175630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493888175630</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1495021698425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495021698425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1497431221217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1497431221217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1497431257463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1497431257463</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1498023442934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498023442934</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1498211195473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498211195474</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1498211200817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1498211200817</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1498541953182</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1498541953182</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1498634080420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1498634080420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1498721759259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1498721759259</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1498815587017</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1498815587017</updated>
+    </task>
+    <task id="LOCAL-00011" summary="优化框架，增加jsonp解析判断">
+      <created>1500015839561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1500015839561</updated>
+    </task>
+    <task id="LOCAL-00012" summary="优化框架，增加自动生成时间戳方法">
+      <created>1500029913269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1500029913269</updated>
+    </task>
+    <task id="LOCAL-00013" summary="优化框架，增加自动生成时间戳方法">
+      <created>1500030318916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500030318916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="优化部分接口">
+      <created>1502690535990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1502690535990</updated>
+    </task>
+    <task id="LOCAL-00015" summary="补充车辆查询接口参数">
+      <created>1502853963054</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1502853963055</updated>
+    </task>
+    <task id="LOCAL-00016" summary="优化">
+      <created>1503303859810</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1503303859810</updated>
+    </task>
+    <task id="LOCAL-00017" summary="优化">
+      <created>1504774302681</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1504774302681</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;完善新车，集采网商订单&quot;">
+      <created>1505185969092</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1505185969092</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15234375" sideWeight="0.49578947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21509106" sideWeight="0.50572914" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1686587" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21946903" sideWeight="0.49427083" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.50421053" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="update" />
+    <MESSAGE value="优化框架，增加jsonp解析判断" />
+    <MESSAGE value="优化框架，增加自动生成时间戳方法" />
+    <MESSAGE value="优化部分接口" />
+    <MESSAGE value="补充车辆查询接口参数" />
+    <MESSAGE value="优化" />
+    <MESSAGE value="&quot;完善新车，集采网商订单&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;完善新车，集采网商订单&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/营销线业务/site/大风车店招siteshopsignsapi.robot" />
+    <entry file="file://$PROJECT_DIR$/营销线业务/weidian-sif/全民卖车.robot" />
+    <entry file="file://$PROJECT_DIR$/营销线业务/weidian-sif/爆款文章.robot" />
+    <entry file="file://$PROJECT_DIR$/营销线业务/Venus/车巴巴.robot" />
+    <entry file="file:///usr/local/lib/python2.7/site-packages/RequestsLibrary/RequestsKeywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/WHEEL">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/RECORD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/top_level.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/METADATA">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/INSTALLER">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/robotframework_httplibrary-0.4.2.dist-info/DESCRIPTION.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/营销线业务/site/车辆查询接口car-search-api.robot" />
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.robot" />
+    <entry file="file:///usr/local/lib/python2.7/site-packages/requests/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/HttpLibrary/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/创建新车弹个车订单.robot.py" />
+    <entry file="file:///usr/local/lib/python2.7/site-packages/HttpLibrary/livetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/网金社.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/二手车弹个车订单/save.txt" />
+    <entry file="file:///Library/Python/2.7/site-packages/robotide/lib/robot/libraries/BuiltIn.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/-2125986627/__builtin__.py" />
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/-2125986627/_List.py" />
+    <entry file="file://$PROJECT_DIR$/弹个车订单/二手车弹个车订单/sql_scripts.py" />
+    <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/save.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代销管理/新零售-渠道管理/批量设置代销.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/结算中心/新车.txt" />
+    <entry file="file://$PROJECT_DIR$/弹个车订单/订单相关/生成下单二维码.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="167" column="10" lean-forward="false" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/结算中心/拉取订单.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/behave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5700">
+          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采网商.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8055">
+          <caret line="537" column="32" lean-forward="false" selection-start-line="537" selection-start-column="32" selection-end-line="537" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/test.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/DatabaseLibrary/connection_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="8" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/DatabaseLibrary/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1493001202000" expanded="true" signature="5232:5244" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/robot/api/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#2403#2417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-集采非网商.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" column="36" lean-forward="false" selection-start-line="181" selection-start-column="36" selection-end-line="181" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/新车弹个车订单/新车弹个车订单-非集采网商.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/结算中心/user_key.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/robot/libraries/BuiltIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25035">
+          <caret line="1693" column="65" lean-forward="false" selection-start-line="1693" selection-start-column="29" selection-end-line="1693" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/MyLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/sql_scripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <marker date="1513929942248" expanded="true" signature="101:324" ph="INSERT INTO `TB_ORDER`... " />
+            <marker date="1513929942248" expanded="true" signature="333:558" ph="INSERT INTO `TB_ORDER`... " />
+            <marker date="1513929942248" expanded="true" signature="599:772" ph="INSERT INTO `TB_ORDER_SUMMARY`... " />
+            <marker date="1513929942248" expanded="true" signature="791:834" ph="SELECT * FRO... TB_ORDER" />
+            <marker date="1513929942248" expanded="true" signature="849:894" ph="SELECT * FRO... TB_ORDER" />
+            <marker date="1513929942248" expanded="true" signature="910:963" ph="SELECT * FRO... fcl_order" />
+            <marker date="1513929942248" expanded="true" signature="980:1120" ph="Select * fro... fcl_order" />
+            <marker date="1513929942248" expanded="true" signature="1043:1119" ph="SELECT order... fcl_order_user" />
+            <marker date="1513929942248" expanded="true" signature="1134:1191" ph="SELECT * FRO... fcl_order_car" />
+            <marker date="1513929942248" expanded="true" signature="1213:1274" ph="SELECT * FRO... fcm_car_deal" />
+            <marker date="1513929942248" expanded="true" signature="1298:1365" ph="update fcl_o... " />
+            <marker date="1513929942248" expanded="true" signature="1832:1885" ph="DELETE FROM " />
+            <marker date="1513929942248" expanded="true" signature="1893:1954" ph="DELETE FROM " />
+            <marker date="1513929942248" expanded="true" signature="1982:2044" ph="delete from " />
+            <marker date="1513929942248" expanded="true" signature="1982:2121" ph="delete from " />
+            <marker date="1513929942248" expanded="true" signature="1988:2043" ph="select * fro... settlement_record" />
+            <marker date="1513929942248" expanded="true" signature="1988:2044" ph="select * fro... settlement_record" />
+            <marker date="1513929942248" expanded="true" signature="2052:2121" ph="delete from " />
+            <marker date="1513929942248" expanded="true" signature="2058:2106" ph="DELETE FROM " />
+            <marker date="1513929942248" expanded="true" signature="2058:2121" ph="DELETE FROM " />
+            <marker date="1513929942248" expanded="true" signature="2148:2212" ph="select order... settlement_record" />
+            <marker date="1513929942248" expanded="true" signature="2148:2213" ph="select order... settlement_record" />
+            <marker date="1513929942248" expanded="true" signature="2245:2316" ph="select * fro... settlement_record_detail" />
+            <marker date="1513929942248" expanded="true" signature="2338:2508" ph="SELECT * FRO... sec_financial_product_shop_relate" />
+            <marker date="1513929942248" expanded="true" signature="2338:2554" ph="SELECT * FRO... sec_financial_product_shop_relate" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/common.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="311" column="18" lean-forward="false" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#145#0" expanded="true" />
+            <marker date="1513910730546" expanded="true" signature="147:715" ph="*** Variables ***" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹个车订单/二手车弹个车订单/创建二手车弹个车700状态订单.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#183#0" expanded="true" />
+            <marker date="1513931015388" expanded="true" signature="0:147" ph="*** Setting ***" />
+            <marker date="1513931015388" expanded="true" signature="1708:1745" ph="创建二手车金融产品" />
+            <marker date="1513931015388" expanded="true" signature="30931:31044" ph="取消订单（非700订单）" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/结算中心/二手车.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1513929298017" expanded="false" signature="0:89" ph="*** Settings ***" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
